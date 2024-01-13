@@ -12,6 +12,7 @@
 - 🎓 I'm currently pursuing my bachelor's in technology in computer science with specialisation in AI/ML from Manav Rachna University.
 - 🌱 I'm constantly learning and exploring new technologies, with a focus on Data science and Machine Learning .
 - 🚀 I love tackling challenging problems and turning data into actionable insights.
+-📫 How to reach me? shivanisharma232005@gmail.com</p>
 
 ## Skills
 
@@ -25,6 +26,7 @@
 <img src="https://img.shields.io/badge/javascript-%2320232a.svg?style=for-the-badge&logo=javascript&logoColor=%2361DAFB" style="margin-bottom: 4px;" height="30px">
 
 </p>
+
 
 ## Connect with Me
 
