@@ -1,9 +1,8 @@
 # Welcome to My GitHub Profile!
 
 👋 Hello there! I'm Bhavay sharma, a passionate tech enthusiast and aspiring data scientist. Welcome to my GitHub repository where I explore, create, and share my work in the world of technology and data.
-![Visitor Count](https : //profile-counter.glitch.me/{YOUR USER}/count.svg)
-```
-
+## Profile Views
+![Profile Views](https://img.shields.io/github/profile-views/{your-username}/{your-repo}?label=Profile%20Views&style=flat-square)
 ## About Me
 
 - 🎓 I'm currently pursuing my bachelor's in technology in computer science with specialisation in AI/ML from Manav Rachna University.
