@@ -2,6 +2,7 @@
 
 - 👋 Hello there! I'm Bhavay sharma, a passionate tech enthusiast and aspiring data scientist. Welcome to my GitHub repository where I explore, create, and share my work in the world of technology and data.
 ## Profile Views
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhavay-sharma-21&label=Profile%20views&color=0e75b6&style=flat" alt="bhavay-sharma-21" /> </p>
 
 
