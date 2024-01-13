@@ -12,7 +12,7 @@
 - 🎓 I'm currently pursuing my bachelor's in technology in computer science with specialisation in AI/ML from Manav Rachna University.
 - 🌱 I'm constantly learning and exploring new technologies, with a focus on Data science and Machine Learning .
 - 🚀 I love tackling challenging problems and turning data into actionable insights.
--📫 How to reach me? shivanisharma232005@gmail.com</p>
+- 📫 How to reach me? bhavay0121@gmail.com</p>
 
 ## Skills
 
