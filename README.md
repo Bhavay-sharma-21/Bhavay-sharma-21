@@ -16,7 +16,6 @@
 
 <p>
 <a href="https://www.linkedin.com/in/bhavay-sharma-5a6931240/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
-<a href="https://leetcode.com/Shivani-2005/"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
 </p>
 
 
