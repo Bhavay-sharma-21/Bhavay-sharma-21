@@ -1,16 +1,24 @@
-### Hi there 👋
+# Welcome to My GitHub Profile!
 
-<!--
-**Bhavay-sharma-21/Bhavay-sharma-21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Hello there! I'm Bhavay sharma, a passionate tech enthusiast and aspiring data scientist. Welcome to my GitHub repository where I explore, create, and share my work in the world of technology and data.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 I'm currently pursuing my bachelor's in technology in computer science with specialisation in AI/ML from Manav Rachna University.
+- 🌱 I'm constantly learning and exploring new technologies, with a focus on Data science and Machine Learning .
+- 🚀 I love tackling challenging problems and turning data into actionable insights.
+
+## Skills
+
+- **Programming Languages:** C, Python,SQL,Java,HTML,CSS,JS,.
+
+## Connect with Me
+
+- LinkedIn:https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile
+
+
+## Let's Collaborate!
+
+I'm always open to collaboration and new opportunities. If you have any ideas, suggestions, or just want to connect, feel free to reach out. Let's learn and grow together!
+
+Happy coding! 🚀
