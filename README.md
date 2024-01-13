@@ -1,6 +1,8 @@
 # Welcome to My GitHub Profile!
 
 👋 Hello there! I'm Bhavay sharma, a passionate tech enthusiast and aspiring data scientist. Welcome to my GitHub repository where I explore, create, and share my work in the world of technology and data.
+![Visitor Count](https : //profile-counter.glitch.me/{YOUR USER}/count.svg)
+```
 
 ## About Me
 
