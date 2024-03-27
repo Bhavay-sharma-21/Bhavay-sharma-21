@@ -30,7 +30,7 @@
 </p>
 
 
-## Connect with Me
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me
 
 <p>
 <a href="https://www.linkedin.com/in/bhavay-sharma-5a6931240/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
